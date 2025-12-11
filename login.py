@@ -1,2 +1,5 @@
-print("Funcionalidad para ingreso de usuarios")
-print("Funcionalidad para ingreso de empleados")
+print("Funcionalidad para ingreso de Usuarios")
+print("Funcionalidad para ingreso de Empleados")
+print("Funcionalidad para ingreso de contratistas")
+print("Funcionalidad para ingreso de Funcionarios")
+print("Funcionalidad para ingreso de Jefes")
